@@ -1,4 +1,4 @@
-### Hi, I'm Ahmed (Eli)
+### Hi, I'm Eli
 
 I build software with AI coding agents, and the tooling that lets several of them work in one repository without breaking each other.
 
