@@ -8,7 +8,7 @@ Software & AI Engineer at [DPA+](https://dpa.plus) in Munich · CS at TU Münche
 
 - **[comms](https://github.com/dpa-plus/comms)**: coordination layer for parallel coding agents (Claude Code, Codex). An agent claims a file before it edits, everything lands in one append-only log, and a git hook refuses a commit that would take another agent's work. Also runs as an MCP server. Go + Python.
 - **[satz](https://github.com/dpa-plus/satz)**: dictation app for macOS, Windows and Linux. Double-tap a key, speak, and the text appears where your cursor is. Bring your own model or run Whisper locally. Swift + Electron. [dpa.plus/satz](https://dpa.plus/satz/)
-- **[antigravity-plugin-cc](https://github.com/dpa-plus/antigravity-plugin-cc)**: Gemini as a second reviewer inside Claude Code: review, adversarial review and delegated tasks.
+- **[antigravity-plugin-cc](https://github.com/dpa-plus/antigravity-plugin-cc)**: a second model as reviewer inside Claude Code: review, adversarial review and delegated tasks.
 - **[request-interceptor](https://github.com/dpa-plus/request-interceptor)**: hooks into requests and AI prompts for analysis, modification and observability.
 
 #### How I work
